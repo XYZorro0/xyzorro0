@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning at the University of Houston about Software Design, Cybersecurity, Data Science, and Computer Networking.
 - 🤔 I’m seeking help with any tips on presenting myself.
-- 📫 How to reach me is through my discord username: xyzorro, my linkedin, or my email at niketgupta1@gmail.com.
+- 📫 How to reach me is through my discord username: xyzorro, my LinkedIn: https://www.linkedin.com/in/niketgupta1 , or my email at niketgupta1@gmail.com.
 -  ⚡ Fun fact: I am excellent at communicating my ideas thoroughly.
 -  💬 Ask me about anything. I am an open book, but will not give my password unless you hack through it 😜
 
